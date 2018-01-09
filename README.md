@@ -10,6 +10,7 @@ it needs a new configuration passed from frontend:
 **Training Configuration**
 ```
 dataset name       eg. "mnist"
+model ID           eg. 1001
 number of epochs   eg. 3
 batch size         eg. 32
 ```
